@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/freebird/static/css/main.11c01046.css",
+    "main.js": "/freebird/static/js/main.075c9d60.js",
+    "index.html": "/freebird/index.html",
+    "main.11c01046.css.map": "/freebird/static/css/main.11c01046.css.map",
+    "main.075c9d60.js.map": "/freebird/static/js/main.075c9d60.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11c01046.css",
+    "static/js/main.075c9d60.js"
+  ]
+}
